@@ -1,2 +1,2 @@
 # cocktail_guide
-Discover cocktials
+N&D Cocktail Guide
