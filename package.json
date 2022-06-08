@@ -1,0 +1,24 @@
+{
+  "name": "cocktail_guide",
+  "version": "1.0.0",
+  "description": "Discover cocktials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpatterson933/cocktail_guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpatterson933/cocktail_guide/issues"
+  },
+  "homepage": "https://github.com/jpatterson933/cocktail_guide#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
